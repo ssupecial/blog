@@ -2,5 +2,5 @@
 
 | 번호 | 주제                                   | 페이지 |
 |------|---------------------------------------|--------|
-| 1    | Flink의 Checkpoint와 Savepoint가 무엇인지   | WIP       |
-| 2    | Checkpoint가 실제로 어떻게 생겼는지 확인해보자   |        |
+| 1    | Flink의 Checkpoint와 Savepoint가 무엇인지   |       |
+| 2    | Checkpoint가 실제로 어떻게 생겼는지 확인해보자   |   [02.md](./02.md)     |
